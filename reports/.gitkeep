@@ -1,0 +1,2 @@
+# This folder holds generated EDA figures (eda_summary.png).
+# Generate with `python -m src.eda`.
